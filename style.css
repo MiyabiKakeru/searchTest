@@ -1,0 +1,43 @@
+body {
+    background: #112752;
+}
+input {
+    width: 75vw;
+    height: 10vh;
+    border-radius: 100px;
+    color: #e9e9ff;
+    border-color: #e9e9ff;
+    border: solid 1vw;
+    background: #112752;
+    font-size: 5vw;
+    margin-right: 3vw;
+}
+button {
+    background: #e9e9ff;
+    color: #112752;
+    width: 20vw;
+    height: 10vh;
+    font-size: 5vw;
+    border-radius: 25%;
+}
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 10vw;
+}
+div {
+    background: #e9e9ff;
+    width: 100vw;
+    height: 50vw;
+    background-image: url(img/icon.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30vw;
+}
+h1 {
+    width: 90vw;
+    color: #f00;
+    background: #555;
+    padding: 5vw;
+    margin: 5vw;
+}
